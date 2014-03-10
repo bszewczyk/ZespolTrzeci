@@ -14,6 +14,8 @@ Materiały do nauki
 			https://developers.facebook.com/docs/other-sdks
 		FB SDK for .NET
 			http://facebooksdk.net/docs/web/
+		Parse SDK
+			https://www.parse.com
 			
 	Tutoriale
 		Canvas games tutorial
