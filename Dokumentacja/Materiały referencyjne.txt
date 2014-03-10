@@ -1,0 +1,24 @@
+Materiały do nauki
+	Oficjalne narzędzia FB
+		FB Canvas
+			https://developers.facebook.com/docs/games/canvas
+		FB SDK for PHP
+			https://developers.facebook.com/docs/reference/php
+		FB SDK for Android
+			https://developers.facebook.com/docs/android
+		FB SDK for JavaScript
+			https://developers.facebook.com/docs/javascript
+			
+	FBowe narzędzia third-party
+		Lista zgłoszonych
+			https://developers.facebook.com/docs/other-sdks
+		FB SDK for .NET
+			http://facebooksdk.net/docs/web/
+		Parse SDK
+			https://www.parse.com
+			
+	Tutoriale
+		Canvas games tutorial
+			https://developers.facebook.com/docs/games/canvas/canvas-tutorial
+		Pierwsza apka fejsbukowa
+			http://webhelp.pl/artykuly/facebook-tworzenie-aplikacji-pierwsza-aplikacja/
