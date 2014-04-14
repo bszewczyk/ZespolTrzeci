@@ -1,0 +1,5 @@
+3. Przypisać zaimplementowanie czegoś każdemu
+	a) baza danych - Karol
+	b) connector - Marek
+	c) klasy danych - Beata
+	d) widoki stron - Grzesiek
