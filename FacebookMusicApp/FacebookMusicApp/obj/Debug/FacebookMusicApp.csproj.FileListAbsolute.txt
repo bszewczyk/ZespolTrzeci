@@ -1,37 +1,3 @@
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\FacebookMusicApp.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\FacebookMusicApp.pdb
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Antlr3.Runtime.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Facebook.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Microsoft.AspNet.Mvc.Facebook.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Microsoft.Web.Infrastructure.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Newtonsoft.Json.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Net.Http.Formatting.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Helpers.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.WebHost.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Mvc.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Optimization.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Razor.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Deployment.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Razor.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\WebGrease.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Facebook.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Newtonsoft.Json.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Net.Http.Formatting.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Helpers.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.WebHost.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Mvc.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\Microsoft.AspNet.Mvc.Facebook.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Razor.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Deployment.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Razor.xml
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.csprojResolveAssemblyReference.cache
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.dll
-c:\users\hall 9000\documents\visual studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.pdb
-<<<<<<< HEAD
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\FacebookMusicApp.dll
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\FacebookMusicApp.pdb
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Antlr3.Runtime.dll
@@ -62,41 +28,5 @@ E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Razor.xml
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.xml
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Deployment.xml
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Razor.xml
-E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.csprojResolveAssemblyReference.cache
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.dll
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.pdb
-=======
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\FacebookMusicApp.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\FacebookMusicApp.pdb
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Antlr3.Runtime.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Facebook.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Microsoft.AspNet.Mvc.Facebook.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Newtonsoft.Json.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Net.Http.Formatting.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Helpers.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.WebHost.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Mvc.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Optimization.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Razor.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Razor.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\WebGrease.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Facebook.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Newtonsoft.Json.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Net.Http.Formatting.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Helpers.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Http.WebHost.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Mvc.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\Microsoft.AspNet.Mvc.Facebook.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.Razor.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Razor.xml
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.csprojResolveAssemblyReference.cache
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.dll
-C:\Users\Marek\Documents\GitHub\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.pdb
->>>>>>> 77fe0c1db4d16e2670f460ee11cb5e9f438efb15
