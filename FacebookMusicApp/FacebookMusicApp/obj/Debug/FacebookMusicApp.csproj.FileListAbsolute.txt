@@ -30,3 +30,6 @@ E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Deploy
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\System.Web.WebPages.Razor.xml
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.dll
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.pdb
+E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\DayPilot.Web.Mvc.dll
+E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\DayPilot.Web.Mvc.xml
+E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.csprojResolveAssemblyReference.cache

@@ -4,7 +4,6 @@
 @{
     ViewBag.Title = "Jamming";
 }
-
 <article class="intro">
     <span id="profilePicture">
         @if (Model.ProfilePicture != null && Model.ProfilePicture.Data != null)
@@ -19,8 +18,11 @@
 <article id="content">
     <div class="left">
         <h4>Callendar</h4>
-    
-
+        <script src="@Url.Content("~/Scripts/DayPilot/daypilot-all.min.js")" type="text/javascript"></script>
+        @Html.DayPilotCalendar("dpc", new DayPilotCalendarConfig
+        {
+        BackendUrl = Url.Content("~/Home/Backend"),
+        })
 
        @* @if (Model.Friends != null && Model.Friends.Data != null && Model.Friends.Data.Count > 0)
         {
