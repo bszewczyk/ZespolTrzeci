@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookMusicApp", "FacebookMusicApp\FacebookMusicApp.csproj", "{D5EBD3E7-9EFB-4318-BD53-E8A0F843F76F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingProject.Tests", "UnitTestingProject.Tests\UnitTestingProject.Tests.csproj", "{E0B818A4-A824-45FF-B471-63D4F02AA474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{D5EBD3E7-9EFB-4318-BD53-E8A0F843F76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5EBD3E7-9EFB-4318-BD53-E8A0F843F76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5EBD3E7-9EFB-4318-BD53-E8A0F843F76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B818A4-A824-45FF-B471-63D4F02AA474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B818A4-A824-45FF-B471-63D4F02AA474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B818A4-A824-45FF-B471-63D4F02AA474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B818A4-A824-45FF-B471-63D4F02AA474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
