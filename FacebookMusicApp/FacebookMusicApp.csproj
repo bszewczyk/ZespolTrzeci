@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{00000000-0000-0000-0000-000000000000}</ProjectGuid>
+    <ProjectGuid>{08B6511B-6586-49C9-ABB4-AF038F786367}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
     <AssemblyName>ConsoleApplication</AssemblyName>
