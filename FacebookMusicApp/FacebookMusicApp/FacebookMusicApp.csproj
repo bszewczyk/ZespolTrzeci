@@ -44,10 +44,15 @@
     <Reference Include="DayPilot.Web.Mvc">
       <HintPath>C:\Users\HALL 9000\Documents\Visual Studio 2012\Projects\FacebookMusicApp\FacebookMusicApp\bin\DayPilot.Web.Mvc.dll</HintPath>
     </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -141,10 +146,17 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Advert.cs" />
+    <Compile Include="Models\Comment.cs" />
+    <Compile Include="Models\Demo.cs" />
+    <Compile Include="Models\FBBDContext.cs" />
+    <Compile Include="Models\Messages.cs" />
     <Compile Include="Models\MyAppUserFriend.cs" />
     <Compile Include="Models\MyAppUser.cs" />
     <Compile Include="Models\FacebookPicture.cs" />
     <Compile Include="Models\FacebookPhoto.cs" />
+    <Compile Include="Models\Rate.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

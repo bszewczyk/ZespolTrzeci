@@ -33,3 +33,7 @@ E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.pdb
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\DayPilot.Web.Mvc.dll
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\DayPilot.Web.Mvc.xml
 E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\obj\Debug\FacebookMusicApp.csprojResolveAssemblyReference.cache
+E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\EntityFramework.dll
+E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\EntityFramework.SqlServer.dll
+E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\EntityFramework.xml
+E:\ZespolTrzeci\FacebookMusicApp\FacebookMusicApp\bin\EntityFramework.SqlServer.xml

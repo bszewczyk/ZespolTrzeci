@@ -33,3 +33,7 @@ E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\bin\Debug\Facebook.xml
 E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\obj\Debug\UnitTestingProject.Tests.csprojResolveAssemblyReference.cache
 E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\obj\Debug\UnitTestingProject.Tests.dll
 E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\obj\Debug\UnitTestingProject.Tests.pdb
+E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\bin\Debug\EntityFramework.dll
+E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\bin\Debug\EntityFramework.SqlServer.dll
+E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\bin\Debug\EntityFramework.xml
+E:\ZespolTrzeci\FacebookMusicApp\UnitTestingProject.Tests\bin\Debug\EntityFramework.SqlServer.xml
