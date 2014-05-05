@@ -13,6 +13,10 @@ namespace FacebookMusicApp.Controllers
 {
     public class HomeController : Controller
     {
+        public string Index()
+        {
+            return "Page in build";
+        }
         [FacebookAuthorize("email", "user_photos")]
         public async Task<ActionResult> Index(FacebookContext context)
         {
